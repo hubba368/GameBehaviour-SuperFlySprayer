@@ -1,0 +1,54 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon (TM) R9 390 Series (ID=0x67b0)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   16.150.2211.0
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\game behaviour\SuperFlySprayer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\game behaviour\SuperFlySprayer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\game behaviour\SuperFlySprayer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\game behaviour\SuperFlySprayer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\game behaviour\SuperFlySprayer_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\game behaviour\SuperFlySprayer_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\game behaviour\SuperFlySprayer_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\game behaviour\SuperFlySprayer_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\game behaviour\SuperFlySprayer_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading E:\game behaviour\SuperFlySprayer_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.064 seconds
+Platform assembly: E:\game behaviour\SuperFlySprayer_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\game behaviour\SuperFlySprayer_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.455422 ms
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.531689 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 510.
+Total: 0.395022 ms (FindLiveObjects: 0.030800 ms CreateObjectMapping: 0.017600 ms MarkObjects: 0.335866 ms  DeleteObjects: 0.005377 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.613555 ms
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 350.
+Total: 0.431688 ms (FindLiveObjects: 0.034222 ms CreateObjectMapping: 0.017600 ms MarkObjects: 0.264000 ms  DeleteObjects: 0.110000 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.263022 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 510.
+Total: 0.367155 ms (FindLiveObjects: 0.022000 ms CreateObjectMapping: 0.016133 ms MarkObjects: 0.318266 ms  DeleteObjects: 0.004888 ms)
+
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.355911 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 504.
+Total: 0.400400 ms (FindLiveObjects: 0.032755 ms CreateObjectMapping: 0.016622 ms MarkObjects: 0.335866 ms  DeleteObjects: 0.009288 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 3410 -> priority: 1 
+  Thread -> id: 347c -> priority: 1 
